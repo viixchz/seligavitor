@@ -1,25 +1,29 @@
-body {background-color: #fa351d}
+body {background-color: #fff7e9}
+#logo{
+  width: 20%;
+}
+
 .poutine{
 width: 20%;
-border: 5px solid yellow
+border: 5px solid red
 }
 
 .maple{
   width: 20%;
-  border: 5px solid yellow
+  border: 5px solid red
 }
 
 .bagel{
   width: 20%;
-  border: 5px solid yellow
+  border: 5px solid red
 }
 
 .meat{
   width: 20%;
-  border: 5px solid yellow
+  border: 5px solid red
 }
 
 .bannock{
   width: 20%;
-  border: 5px solid yellow
+  border: 5px solid red
 }
